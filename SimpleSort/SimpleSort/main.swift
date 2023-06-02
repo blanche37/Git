@@ -10,3 +10,7 @@ import Foundation
 func bubbleSort() {
     
 }
+
+func selectionSort() {
+    
+}
